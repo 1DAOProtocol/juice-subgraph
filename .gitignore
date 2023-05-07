@@ -20,6 +20,10 @@ subgraph.yaml
 src/contractAddresses.ts
 src/startBlocks.ts
 
+spec/out
+
+.env
+
 # Created by https://www.toptal.com/developers/gitignore/api/jetbrains+all
 # Edit at https://www.toptal.com/developers/gitignore?templates=jetbrains+all
 
