@@ -1,5 +1,5 @@
 specVersion: 0.0.4
-description: Juicebox protocol on {{network}}
+description: 1 DAO Protocol on {{network}}
 features:
   - fullTextSearch
 {{{ graftConfig }}}

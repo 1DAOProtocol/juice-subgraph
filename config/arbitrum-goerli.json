@@ -1,0 +1,68 @@
+{
+  "network": "arbitrum-goerli",
+  "v2": {
+    "jbProjects": {
+      "address": "0x87cF30Fc0Bc71eF593EAF5bBED68854eFE48c3D0",
+      "startBlock": 13378257
+    }
+  },
+  "v3": {
+    "jbController": {
+      "address": "0x6133ef4f09030722989126F08Ab8241602934A3E",
+      "startBlock": 13378350
+    },
+    "jbController3_1": {
+      "address": "0x6653B6571d078Af146a0fC3Ed12a1591636c0Bc1",
+      "startBlock": 13380347
+    },
+    "jbTokenStore": {
+      "address": "0x9A873A6064b82454b9160E6054e5102ceECED180",
+      "startBlock": 13378313
+    },
+    "jbETHPaymentTerminal": {
+      "address": "0xb1f4cb520669E04f100fd7Da3784d868192d77Dd",
+      "startBlock": 13379793
+    },
+    "jbETHPaymentTerminal3_1": {
+      "address": "0x4478f2aB8f2316124ea1544e3f8F25A3014fD174",
+      "startBlock": 13382130
+    },
+    "jbFundAccessConstraintsStore": {
+      "address": "0x5599DE32aE80254B33a5157691D5a1a607D0E7F3",
+      "startBlock": 13379903
+    },
+    "jbETHERC20ProjectPayerDeployer": {
+      "address": "0x13c3015A786BdCC70E713BF363557ee05988E641",
+      "startBlock": 13378183
+    },
+    "jbFundingCycleStore": {
+      "address": "0x03B44DeB1831712a34D9bB0A00e2F0226bF94b31",
+      "startBlock": 13378295
+    }
+  },
+  "shared": {
+    "jbProjectHandles": {
+      "address": "0x9e259442f800d981752c1359a3c7633db70bc395",
+      "startBlock": 13378183
+    },
+    "jbTiered721DelegateDeployer": {
+      "address": "0x6060fa6d5c5b7bd219f2bc576992c239da8f6664",
+      "startBlock": 13378183
+    },
+    "jbTiered721DelegateDeployer2": {
+      "address": "0xF9d5Bc54f54eBEE30dE3e960992a343481073B3d",
+      "startBlock": 13378183
+    },
+    "jbTiered721DelegateStore": {
+      "address": "0x3ea16deff07f031e86bd13c55961eb576cd579a6",
+      "startBlock": 13378183
+    },
+    "jbTiered721DelegateStore2": {
+      "address": "0xF85DC8C2b9dFfeab95c614A306141882048dE467",
+      "startBlock": 13378183
+    },
+    "ensRegistry": {
+      "address": "0x00000000000C2E074eC69A0dFb2997BA6C7d2e1e"
+    }
+  }
+}
